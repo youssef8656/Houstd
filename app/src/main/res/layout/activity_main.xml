@@ -31,30 +31,6 @@
         app:layout_constraintTop_toBottomOf="@+id/username"
         app:layout_constraintVertical_bias="0.071" />
 
-    <RadioButton
-        android:id="@+id/studentradio"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Student"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.714"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.636" />
-
-    <RadioButton
-        android:id="@+id/ownerradio"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Owner"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/studentradio"
-        app:layout_constraintHorizontal_bias="0.658"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.636" />
-
     <Button
         android:id="@+id/loginbtn"
         android:layout_width="wrap_content"
@@ -90,7 +66,7 @@
         app:layout_constraintHorizontal_bias="0.944"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.73" />
+        app:layout_constraintVertical_bias="0.595" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -103,5 +79,28 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.5"
         app:srcCompat="@mipmap/logo" />
+
+    <RadioGroup
+        android:layout_width="132dp"
+        android:layout_height="71dp"
+        app:layout_constraintBottom_toTopOf="@+id/loginbtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.118"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/password"
+        app:layout_constraintVertical_bias="0.322">
+
+        <RadioButton
+            android:id="@+id/studentradio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student" />
+
+        <RadioButton
+            android:id="@+id/ownerradio"
+            android:layout_width="88dp"
+            android:layout_height="wrap_content"
+            android:text="Owner" />
+    </RadioGroup>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
