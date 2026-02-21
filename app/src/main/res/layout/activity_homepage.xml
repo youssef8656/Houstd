@@ -7,4 +7,15 @@
     android:layout_height="match_parent"
     tools:context=".Homepage">
 
+    <FrameLayout
+        android:id="@+id/ApartmentDetails"
+        android:layout_width="380dp"
+        android:layout_height="685dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </FrameLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
