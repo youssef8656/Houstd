@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/requestsFragment"
+        android:icon="@drawable/ic_requests"
+        android:title="Requests" />
+
+    <!-- (No Add New item here; it is the centered FAB) -->
+
+    <item
+        android:id="@+id/reviewsFragment"
+        android:icon="@drawable/ic_reviews"
+        android:title="Reviews" />
+
+    <item
+        android:id="@+id/moreFragment"
+        android:icon="@drawable/ic_more"
+        android:title="More" />
+</menu>

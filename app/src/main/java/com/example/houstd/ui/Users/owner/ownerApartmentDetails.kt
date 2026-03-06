@@ -1,4 +1,4 @@
-package com.example.houstd
+package com.example.houstd.ui.Users.owner
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,6 +7,8 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.houstd.ApartmentAdapter
+import com.example.houstd.R
 
 class OwnerApartmentDetails : Fragment() {
 

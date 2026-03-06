@@ -13,6 +13,30 @@
         android:theme="@style/Theme.HOUSTD"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.HOUSTD.NoActionBar" />
+        <activity
+            android:name=".ui.Users.Profile"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Users.owner.AddNew.AddNew_3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Users.owner.AddNew.AddNew_2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Users.owner.AddNew.AddNew"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Users.navBarMore"
+            android:exported="false" />
+        <activity
+            android:name=".ui.owner.SettingsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_settings" />
+        <activity
             android:name=".ScrollingActivity"
             android:exported="false"
             android:label="@string/title_activity_scrolling"

@@ -3,24 +3,47 @@ package com.example.houstd
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.FragmentTransaction
+import com.example.houstd.ui.Users.owner.OwnerApartmentDetails
+import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class Homepage : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_homepage)
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
+
+        // Default fragment (Home)
+        openFragment(OwnerApartmentDetails())
+
+        val bottomNav = findViewById<BottomNavigationView>(R.id.bottomNav)
+        bottomNav.setOnItemSelectedListener { item ->
+            when (item.itemId) {
+                R.id.nav_home -> {
+                    openFragment(OwnerApartmentDetails())
+                    true
+                }
+                R.id.nav_requests -> {
+//                    openFragment(RequestsFragment()) // create this fragment
+                    true
+                }
+                R.id.nav_reviews -> {
+//                    openFragment(ReviewsFragment()) // create this fragment
+                    true
+                }
+                R.id.nav_more -> {
+//                    openFragment(MoreFragment()) // create this fragment
+                    true
+                }
+                else -> false
+            }
         }
-        val fragment1: Fragment = OwnerApartmentDetails()
-        val fragtrans : FragmentTransaction = supportFragmentManager.beginTransaction()
-        fragtrans.replace(R.id.ApartmentDetails,fragment1).commit()
     }
 
+    private fun openFragment(fragment: Fragment) {
+        supportFragmentManager.beginTransaction()
+            .replace(R.id.ApartmentDetails, fragment)
+            .commit()
+    }
 }

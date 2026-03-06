@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    app:cardCornerRadius="6dp"
+    app:cardElevation="2dp"
+    app:strokeWidth="1dp"
+    app:strokeColor="#E3E3E3">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp">
+
+        <!-- Avatar -->
+        <ImageView
+            android:id="@+id/ivAvatar"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:background="#D9D9D9"
+            android:padding="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!-- Name -->
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Ahmed Ali"
+            android:textStyle="bold"
+            android:textSize="13sp"
+            android:textColor="#3A3A3A"
+            app:layout_constraintStart_toEndOf="@id/ivAvatar"
+            app:layout_constraintTop_toTopOf="@id/ivAvatar"
+            app:layout_constraintEnd_toStartOf="@id/tvReply" />
+
+        <!-- Reply -->
+        <TextView
+            android:id="@+id/tvReply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reply"
+            android:textSize="12sp"
+            android:textColor="#9A9A9A"
+            android:drawablePadding="6dp"
+            android:drawableStart="@android:drawable/ic_menu_search"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/tvName" />
+
+        <!-- Faculty -->
+        <TextView
+            android:id="@+id/tvFaculty"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="2dp"
+            android:text="Faculty Of Engineering"
+            android:textSize="11sp"
+            android:textColor="#9A9A9A"
+            app:layout_constraintStart_toEndOf="@id/ivAvatar"
+            app:layout_constraintTop_toBottomOf="@id/tvName"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Rating + value -->
+        <RatingBar
+            android:id="@+id/ratingBar"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="6dp"
+            android:isIndicator="true"
+            android:numStars="5"
+            android:rating="5"
+            android:stepSize="0.5"
+            app:layout_constraintStart_toEndOf="@id/ivAvatar"
+            app:layout_constraintTop_toBottomOf="@id/tvFaculty" />
+
+        <TextView
+            android:id="@+id/tvRatingValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="6dp"
+            android:text="5.0/5"
+            android:textSize="11sp"
+            android:textColor="#9A9A9A"
+            app:layout_constraintStart_toEndOf="@id/ratingBar"
+            app:layout_constraintBaseline_toBaselineOf="@id/ratingBar" />
+
+        <!-- Date row -->
+        <ImageView
+            android:id="@+id/ivClock"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="6dp"
+            android:src="@android:drawable/ic_lock_idle_alarm"
+            app:layout_constraintStart_toEndOf="@id/ivAvatar"
+            app:layout_constraintTop_toBottomOf="@id/ratingBar" />
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="6dp"
+            android:text="16-02-2021"
+            android:textSize="11sp"
+            android:textColor="#9A9A9A"
+            app:layout_constraintStart_toEndOf="@id/ivClock"
+            app:layout_constraintBaseline_toBaselineOf="@id/ivClock" />
+
+        <!-- Comment -->
+        <TextView
+            android:id="@+id/tvComment"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Highly Recommended, Every Thing Was So Nice"
+            android:textSize="12sp"
+            android:textColor="#6A6A6A"
+            app:layout_constraintStart_toStartOf="@id/ivClock"
+            app:layout_constraintTop_toBottomOf="@id/ivClock"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Meta line -->
+        <TextView
+            android:id="@+id/tvMeta"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="1 Bed | Stayed 2 Months"
+            android:textSize="11sp"
+            android:textColor="#B0B0B0"
+            app:layout_constraintStart_toStartOf="@id/tvComment"
+            app:layout_constraintTop_toBottomOf="@id/tvComment"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>
