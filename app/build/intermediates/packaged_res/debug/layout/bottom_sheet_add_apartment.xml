@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:background="@drawable/bg_bottom_sheet">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="20dp">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="16dp">
+            <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:text="Add New Apartment"
+                android:textColor="@color/text_primary" android:textSize="18sp" android:textStyle="bold" />
+            <ImageButton android:id="@+id/btnClose" android:layout_width="32dp"
+                android:layout_height="32dp" android:background="@drawable/bg_circle_gray"
+                android:src="@drawable/ic_close" android:padding="8dp" />
+        </LinearLayout>
+        <TextView android:id="@+id/tvError" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:background="@drawable/bg_error_light"
+            android:padding="10dp" android:textColor="@color/red_600" android:textSize="12sp"
+            android:visibility="gone" android:layout_marginBottom="12dp" />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Title *" android:textColor="@color/text_secondary" android:textSize="13sp"
+            android:textStyle="bold" android:layout_marginBottom="4dp" />
+        <EditText android:id="@+id/etTitle" android:layout_width="match_parent"
+            android:layout_height="48dp" android:background="@drawable/bg_input_light"
+            android:hint="e.g. Modern Studio Near Campus" android:textColorHint="@color/text_hint"
+            android:textSize="14sp" android:paddingStart="12dp" android:paddingEnd="12dp"
+            android:inputType="text" android:layout_marginBottom="12dp" />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Address *" android:textColor="@color/text_secondary" android:textSize="13sp"
+            android:textStyle="bold" android:layout_marginBottom="4dp" />
+        <EditText android:id="@+id/etAddress" android:layout_width="match_parent"
+            android:layout_height="48dp" android:background="@drawable/bg_input_light"
+            android:hint="Street, City" android:textColorHint="@color/text_hint"
+            android:textSize="14sp" android:paddingStart="12dp" android:paddingEnd="12dp"
+            android:inputType="text" android:layout_marginBottom="12dp" />
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="12dp">
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:orientation="vertical" android:layout_marginEnd="8dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Price/mo ($) *" android:textColor="@color/text_secondary"
+                    android:textSize="13sp" android:textStyle="bold" android:layout_marginBottom="4dp" />
+                <EditText android:id="@+id/etPrice" android:layout_width="match_parent"
+                    android:layout_height="48dp" android:background="@drawable/bg_input_light"
+                    android:hint="450" android:textColorHint="@color/text_hint"
+                    android:textSize="14sp" android:paddingStart="12dp" android:paddingEnd="12dp"
+                    android:inputType="number" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:orientation="vertical">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Beds *" android:textColor="@color/text_secondary"
+                    android:textSize="13sp" android:textStyle="bold" android:layout_marginBottom="4dp" />
+                <EditText android:id="@+id/etBeds" android:layout_width="match_parent"
+                    android:layout_height="48dp" android:background="@drawable/bg_input_light"
+                    android:hint="2" android:textColorHint="@color/text_hint"
+                    android:textSize="14sp" android:paddingStart="12dp" android:paddingEnd="12dp"
+                    android:inputType="number" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Description *" android:textColor="@color/text_secondary" android:textSize="13sp"
+            android:textStyle="bold" android:layout_marginBottom="4dp" />
+        <EditText android:id="@+id/etDescription" android:layout_width="match_parent"
+            android:layout_height="100dp" android:background="@drawable/bg_textarea_light"
+            android:hint="Describe your apartment..." android:textColorHint="@color/text_hint"
+            android:textSize="14sp" android:padding="12dp" android:gravity="top"
+            android:inputType="textMultiLine" android:layout_marginBottom="12dp" />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Image URL (optional)" android:textColor="@color/text_secondary" android:textSize="13sp"
+            android:textStyle="bold" android:layout_marginBottom="4dp" />
+        <EditText android:id="@+id/etImageUrl" android:layout_width="match_parent"
+            android:layout_height="48dp" android:background="@drawable/bg_input_light"
+            android:hint="https://..." android:textColorHint="@color/text_hint"
+            android:textSize="14sp" android:paddingStart="12dp" android:paddingEnd="12dp"
+            android:inputType="textUri" android:layout_marginBottom="20dp" />
+
+        <Button android:id="@+id/btnSave" android:layout_width="match_parent"
+            android:layout_height="52dp" android:text="Save Apartment"
+            android:textColor="@color/white" android:textSize="15sp" android:textStyle="bold"
+            android:background="@drawable/bg_button_primary" />
+        <View android:layout_width="match_parent" android:layout_height="16dp" />
+    </LinearLayout>
+</ScrollView>

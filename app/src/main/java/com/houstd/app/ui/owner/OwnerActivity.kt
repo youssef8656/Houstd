@@ -1,0 +1,31 @@
+package com.houstd.app.ui.owner
+
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
+import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.houstd.app.R
+import com.houstd.app.ui.shared.MoreFragment
+
+class OwnerActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+        val bottomNav = findViewById<BottomNavigationView>(R.id.bottomNav)
+        bottomNav.inflateMenu(R.menu.menu_owner)
+        loadFragment(OwnerListingsFragment())
+        bottomNav.setOnItemSelectedListener { item ->
+            val fragment: Fragment = when (item.itemId) {
+                R.id.nav_listings -> OwnerListingsFragment()
+                R.id.nav_requests -> OwnerRequestsFragment()
+                R.id.nav_more -> MoreFragment()
+                else -> return@setOnItemSelectedListener false
+            }
+            loadFragment(fragment)
+            true
+        }
+    }
+    private fun loadFragment(fragment: Fragment) {
+        supportFragmentManager.beginTransaction().replace(R.id.fragmentContainer, fragment).commit()
+    }
+}
