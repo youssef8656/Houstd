@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_error.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_item_menu_row.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\item_menu_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_menu_icon.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_menu_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_role_pill.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_role_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_bottom_sheet_apartment_detail.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\bottom_sheet_apartment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_users.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_error_light.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_error_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_heart_outline.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_heart_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_profile_gradient.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_profile_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_stat_indigo_light.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_stat_indigo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_price_badge.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_price_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_circle_white.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_input_light.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_input_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\menu_menu_admin.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\menu\\menu_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_admin_listings.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_admin_listings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_apartment_placeholder.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_apartment_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_item_user.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_item_apartment.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\item_apartment.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_student_saved.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_student_saved.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_delete_btn.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_delete_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_bed.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_bed.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_trash.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_trash.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_circle_semi.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_circle_semi.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_button_logout.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_button_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_owner_listings.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_owner_listings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_circle_colored.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_circle_colored.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_item_request.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\item_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_success_circle.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_success_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\color_nav_item_color.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "com.houstd.app-merged_res-40:/layout_fragment_student_home.xml.flat",
+        "source": "com.houstd.app-main-42:/layout/fragment_student_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_file.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_stat_green.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_stat_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_button_approve.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_button_approve.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_stat_purple.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_stat_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_circle_gray.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_circle_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_bottom_sheet_apply.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\bottom_sheet_apply.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\menu_menu_owner.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\menu\\menu_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_button_secondary.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_stat_amber_light.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_stat_amber_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_warning_circle.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_warning_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_button_delete.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_button_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_role_badge.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_role_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_selector_role_button.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\selector_role_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_card_blur.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_card_blur.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_owner_requests.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_owner_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_demo_item.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_demo_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_button_primary.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_card_white.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_card_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_textarea_light.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_textarea_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_textarea.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_textarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_student_requests.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_student_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_building.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_building.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_button_reject.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_button_reject.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_admin_users.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_admin_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_stat_purple_light.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_stat_purple_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_message_box.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_message_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_logo.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_stat_indigo.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_stat_indigo.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_bottom_sheet_add_apartment.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\bottom_sheet_add_apartment.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_home_logo.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_home_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_student_home.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_student_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_heart_filled.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_heart_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_gradient_auth.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_gradient_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_more.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_status_badge.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_status_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\menu_menu_student.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\menu\\menu_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-merged_res-40:\\layout_fragment_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\MillerFayez\\.gradle\\daemon\\8.5\\com.houstd.app-main-42:\\layout\\fragment_admin_dashboard.xml"
+    }
+]

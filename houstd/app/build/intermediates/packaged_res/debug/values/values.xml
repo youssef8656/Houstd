@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber_600">#D97706</color>
+    <color name="auth_bg_end">#0F172A</color>
+    <color name="auth_bg_start">#1E1B4B</color>
+    <color name="bg_screen">#F8FAFC</color>
+    <color name="emerald_600">#059669</color>
+    <color name="indigo_600">#4F46E5</color>
+    <color name="indigo_900">#1E1B4B</color>
+    <color name="nav_selected">#4F46E5</color>
+    <color name="nav_unselected">#94A3B8</color>
+    <color name="purple_600">#9333EA</color>
+    <color name="red_600">#DC2626</color>
+    <color name="role_admin_bg">#F3E8FF</color>
+    <color name="role_admin_text">#7E22CE</color>
+    <color name="role_owner_bg">#EEF2FF</color>
+    <color name="role_owner_text">#3730A3</color>
+    <color name="role_student_bg">#ECFDF5</color>
+    <color name="role_student_text">#065F46</color>
+    <color name="status_approved">#059669</color>
+    <color name="status_pending">#D97706</color>
+    <color name="status_rejected">#DC2626</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Houstd</string>
+    <style name="RoleButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/selector_role_button</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+    <style name="Theme.Houstd" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/indigo_600</item>
+        <item name="colorPrimaryVariant">@color/indigo_900</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/bg_screen</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.Houstd.Auth" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/indigo_600</item>
+        <item name="android:statusBarColor">#1E1B4B</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

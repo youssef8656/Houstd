@@ -1,0 +1,43 @@
+com.houstd.app-lifecycle-viewmodel-2.7.0-0 C:\Users\MillerFayez\.gradle\caches\transforms-3\012444741c4f8082f7effde7d901fac5\transformed\lifecycle-viewmodel-2.7.0\res
+com.houstd.app-jetified-lifecycle-livedata-core-ktx-2.7.0-1 C:\Users\MillerFayez\.gradle\caches\transforms-3\016ede642c12ef7e1a705ee06b8a052c\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.houstd.app-jetified-profileinstaller-1.3.0-2 C:\Users\MillerFayez\.gradle\caches\transforms-3\03e17d35ddad56fc366e138f1e68c98e\transformed\jetified-profileinstaller-1.3.0\res
+com.houstd.app-jetified-lifecycle-runtime-ktx-2.7.0-3 C:\Users\MillerFayez\.gradle\caches\transforms-3\1a5a93ad16c1875fe1219fc50c22ddee\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.houstd.app-coordinatorlayout-1.2.0-4 C:\Users\MillerFayez\.gradle\caches\transforms-3\2e0035fbc07debe82d143abb707c34db\transformed\coordinatorlayout-1.2.0\res
+com.houstd.app-jetified-lifecycle-livedata-ktx-2.7.0-5 C:\Users\MillerFayez\.gradle\caches\transforms-3\2ee1536d8c486cf526c7e5ab8d3cda80\transformed\jetified-lifecycle-livedata-ktx-2.7.0\res
+com.houstd.app-jetified-lifecycle-viewmodel-ktx-2.7.0-6 C:\Users\MillerFayez\.gradle\caches\transforms-3\35d107b7bbc1a6d96cb154a0a394bea4\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.houstd.app-material-1.11.0-7 C:\Users\MillerFayez\.gradle\caches\transforms-3\38d56184ec25501de898e01b67607ff5\transformed\material-1.11.0\res
+com.houstd.app-fragment-1.6.2-8 C:\Users\MillerFayez\.gradle\caches\transforms-3\3ca8d34d555e944e2dbfa4de672b6fa3\transformed\fragment-1.6.2\res
+com.houstd.app-cardview-1.0.0-9 C:\Users\MillerFayez\.gradle\caches\transforms-3\3cb13e03c2465b7747f2efb605249a42\transformed\cardview-1.0.0\res
+com.houstd.app-core-1.12.0-10 C:\Users\MillerFayez\.gradle\caches\transforms-3\49bc569e60fab80a2adb3ddf56e74042\transformed\core-1.12.0\res
+com.houstd.app-drawerlayout-1.1.1-11 C:\Users\MillerFayez\.gradle\caches\transforms-3\4b15fb9e2e5628c4ff471e5bd1e37ab4\transformed\drawerlayout-1.1.1\res
+com.houstd.app-jetified-savedstate-1.2.1-12 C:\Users\MillerFayez\.gradle\caches\transforms-3\54bb2a80c9f9912585f311b6c102e3c7\transformed\jetified-savedstate-1.2.1\res
+com.houstd.app-jetified-emoji2-1.2.0-13 C:\Users\MillerFayez\.gradle\caches\transforms-3\590ef5785fbe6100a6fe4b54a17f9ced\transformed\jetified-emoji2-1.2.0\res
+com.houstd.app-jetified-viewpager2-1.1.0-beta02-14 C:\Users\MillerFayez\.gradle\caches\transforms-3\5f8316cf88d31535a6e66b35f3ac174f\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.houstd.app-jetified-core-ktx-1.12.0-15 C:\Users\MillerFayez\.gradle\caches\transforms-3\6e5fe60599f99afaaeb812134e9f2f8f\transformed\jetified-core-ktx-1.12.0\res
+com.houstd.app-appcompat-1.6.1-16 C:\Users\MillerFayez\.gradle\caches\transforms-3\759eca0c36783a20cd772468506110d8\transformed\appcompat-1.6.1\res
+com.houstd.app-lifecycle-livedata-core-2.7.0-17 C:\Users\MillerFayez\.gradle\caches\transforms-3\77feed21e8718a55241ced2aea88962b\transformed\lifecycle-livedata-core-2.7.0\res
+com.houstd.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-18 C:\Users\MillerFayez\.gradle\caches\transforms-3\7e9095a0af90eaf4630d4c96210125fc\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.houstd.app-lifecycle-livedata-2.7.0-19 C:\Users\MillerFayez\.gradle\caches\transforms-3\80c8a3326623a499059530e4c73069ef\transformed\lifecycle-livedata-2.7.0\res
+com.houstd.app-jetified-emoji2-views-helper-1.2.0-20 C:\Users\MillerFayez\.gradle\caches\transforms-3\82b82d9b56e1e49782ac840ac12166ab\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.houstd.app-jetified-activity-ktx-1.8.0-21 C:\Users\MillerFayez\.gradle\caches\transforms-3\86f2d22c42e4620b2dede52d9636ea5c\transformed\jetified-activity-ktx-1.8.0\res
+com.houstd.app-jetified-savedstate-ktx-1.2.1-22 C:\Users\MillerFayez\.gradle\caches\transforms-3\876c9209aba39f72f097593878cd4ccf\transformed\jetified-savedstate-ktx-1.2.1\res
+com.houstd.app-constraintlayout-2.1.4-23 C:\Users\MillerFayez\.gradle\caches\transforms-3\8f4f2b5e856b37a651c76613e1167454\transformed\constraintlayout-2.1.4\res
+com.houstd.app-recyclerview-1.3.2-24 C:\Users\MillerFayez\.gradle\caches\transforms-3\9970f63fbc7b3b39b85fa98e0999d672\transformed\recyclerview-1.3.2\res
+com.houstd.app-jetified-appcompat-resources-1.6.1-25 C:\Users\MillerFayez\.gradle\caches\transforms-3\9f6d51c3a39210781047e2c223c9a6bc\transformed\jetified-appcompat-resources-1.6.1\res
+com.houstd.app-core-runtime-2.2.0-26 C:\Users\MillerFayez\.gradle\caches\transforms-3\a9125ab005392aa2ea6b55a486a93c86\transformed\core-runtime-2.2.0\res
+com.houstd.app-jetified-fragment-ktx-1.6.2-27 C:\Users\MillerFayez\.gradle\caches\transforms-3\a9a640e18762e8ed96d0345dc794defd\transformed\jetified-fragment-ktx-1.6.2\res
+com.houstd.app-jetified-activity-1.8.0-28 C:\Users\MillerFayez\.gradle\caches\transforms-3\caa58a4c8e15f7ef1e5ea15628348260\transformed\jetified-activity-1.8.0\res
+com.houstd.app-jetified-startup-runtime-1.1.1-29 C:\Users\MillerFayez\.gradle\caches\transforms-3\d7ae797287e5b024eb9774355e8bf0eb\transformed\jetified-startup-runtime-1.1.1\res
+com.houstd.app-jetified-glide-4.16.0-30 C:\Users\MillerFayez\.gradle\caches\transforms-3\d9839db39f6a23689998d68fe2a072d6\transformed\jetified-glide-4.16.0\res
+com.houstd.app-jetified-lifecycle-process-2.7.0-31 C:\Users\MillerFayez\.gradle\caches\transforms-3\dd9121fac4e4d3a87b73220ca3627b8e\transformed\jetified-lifecycle-process-2.7.0\res
+com.houstd.app-jetified-customview-poolingcontainer-1.0.0-32 C:\Users\MillerFayez\.gradle\caches\transforms-3\e156cc97f756062cd8b237260361b24b\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.houstd.app-lifecycle-runtime-2.7.0-33 C:\Users\MillerFayez\.gradle\caches\transforms-3\e452b7113aec971d59d61190c4303c53\transformed\lifecycle-runtime-2.7.0\res
+com.houstd.app-transition-1.2.0-34 C:\Users\MillerFayez\.gradle\caches\transforms-3\f3a0b2ca98fd7b9b378b99257966b3e2\transformed\transition-1.2.0\res
+com.houstd.app-jetified-annotation-experimental-1.3.0-35 C:\Users\MillerFayez\.gradle\caches\transforms-3\fd55cace8a08932c41a53938bcaf6264\transformed\jetified-annotation-experimental-1.3.0\res
+com.houstd.app-pngs-36 C:\Users\MillerFayez\Desktop\houstd-android miller last 1\app\build\generated\res\pngs\debug
+com.houstd.app-resValues-37 C:\Users\MillerFayez\Desktop\houstd-android miller last 1\app\build\generated\res\resValues\debug
+com.houstd.app-packageDebugResources-38 C:\Users\MillerFayez\Desktop\houstd-android miller last 1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.houstd.app-packageDebugResources-39 C:\Users\MillerFayez\Desktop\houstd-android miller last 1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.houstd.app-merged_res-40 C:\Users\MillerFayez\Desktop\houstd-android miller last 1\app\build\intermediates\merged_res\debug
+com.houstd.app-debug-41 C:\Users\MillerFayez\Desktop\houstd-android miller last 1\app\src\debug\res
+com.houstd.app-main-42 C:\Users\MillerFayez\Desktop\houstd-android miller last 1\app\src\main\res

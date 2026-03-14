@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="vertical" android:padding="20dp"
+    android:background="@drawable/bg_bottom_sheet">
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="horizontal" android:layout_marginBottom="16dp">
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:text="Apply for Apartment"
+            android:textColor="@color/text_primary" android:textSize="18sp" android:textStyle="bold" />
+        <ImageButton android:id="@+id/btnClose" android:layout_width="32dp"
+            android:layout_height="32dp" android:background="@drawable/bg_circle_gray"
+            android:src="@drawable/ic_close" android:padding="8dp" />
+    </LinearLayout>
+
+    <!-- Form State -->
+    <LinearLayout android:id="@+id/layoutForm" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:orientation="vertical">
+        <TextView android:id="@+id/tvApartmentTitle" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:textColor="@color/text_secondary"
+            android:textSize="13sp" android:layout_marginBottom="14dp" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Your Message (optional)" android:textColor="@color/text_primary"
+            android:textSize="13sp" android:textStyle="bold" android:layout_marginBottom="6dp" />
+        <EditText android:id="@+id/etMessage" android:layout_width="match_parent"
+            android:layout_height="120dp" android:background="@drawable/bg_textarea"
+            android:hint="Introduce yourself to the owner..."
+            android:textColorHint="@color/text_hint" android:textSize="14sp"
+            android:padding="12dp" android:gravity="top" android:inputType="textMultiLine"
+            android:layout_marginBottom="16dp" />
+        <Button android:id="@+id/btnSend" android:layout_width="match_parent"
+            android:layout_height="52dp" android:text="Send Application"
+            android:textColor="@color/white" android:textSize="15sp" android:textStyle="bold"
+            android:background="@drawable/bg_button_primary" />
+    </LinearLayout>
+
+    <!-- Success State -->
+    <LinearLayout android:id="@+id/layoutSuccess" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:orientation="vertical"
+        android:gravity="center" android:padding="24dp" android:visibility="gone">
+        <TextView android:layout_width="72dp" android:layout_height="72dp"
+            android:text="✓" android:gravity="center" android:textColor="#10B981"
+            android:textSize="32sp" android:background="@drawable/bg_success_circle"
+            android:layout_marginBottom="16dp" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Application Sent!" android:textColor="@color/text_primary"
+            android:textSize="18sp" android:textStyle="bold" android:layout_marginBottom="8dp" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="The owner will review your application."
+            android:textColor="@color/text_secondary" android:textSize="13sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <!-- Already Applied State -->
+    <LinearLayout android:id="@+id/layoutAlready" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:orientation="vertical"
+        android:gravity="center" android:padding="24dp" android:visibility="gone">
+        <TextView android:layout_width="72dp" android:layout_height="72dp"
+            android:text="!" android:gravity="center" android:textColor="#F59E0B"
+            android:textSize="32sp" android:background="@drawable/bg_warning_circle"
+            android:layout_marginBottom="16dp" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Already Applied" android:textColor="@color/text_primary"
+            android:textSize="18sp" android:textStyle="bold" android:layout_marginBottom="8dp" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="You've already submitted an application for this apartment."
+            android:textColor="@color/text_secondary" android:textSize="13sp"
+            android:gravity="center" />
+    </LinearLayout>
+</LinearLayout>
